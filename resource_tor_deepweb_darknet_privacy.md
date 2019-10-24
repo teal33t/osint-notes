@@ -4,7 +4,7 @@ This list contains updated tools and links for research on anonymous networks li
  
 - A docker for nmap over tor (https://github.com/milesrichardson/docker-onion-nmap)
 - OnionScan (https://onionscan.org/)
- - Tool for investigating and analyzing  
+ -- Tool for investigating and analyzing  
 - Nipe (https://github.com/GouveaHeitor/nipe)
  - Tool to make Tor Network your default gateway
 - DarkNet Stats (https://dnstats.net)
