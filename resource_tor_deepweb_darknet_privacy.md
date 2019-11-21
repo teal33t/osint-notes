@@ -23,4 +23,7 @@ This list contains updated tools and links for research on anonymous networks li
  -- Tool for create multiple TOR instances with a load-balancing 
 - ProjectX (https://github.com/CHEF-KOCH/ProjectX)
  -- Good overview about Darknet related links and tools
+- Real World Onion Sites (https://github.com/alecmuffett/real-world-onion-sites)
+- Darknet Stats (https://www.darknetstats.com/)
+
 
