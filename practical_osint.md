@@ -12,4 +12,4 @@ Also if you are looking for OSINT awesome list, here are some update collection 
 
 - [A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint)
 - [Learn Ethical Hacking and penetration testing](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
-- [Nice OSINT Collection] (https://github.com/lucmski/OSINT-Collection)
+- [Nice OSINT Collection](https://github.com/lucmski/OSINT-Collection)
