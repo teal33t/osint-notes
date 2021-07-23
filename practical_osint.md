@@ -9,6 +9,7 @@ Also if you are looking for OSINT awesome list, here are some good collection on
 - [Learn Ethical Hacking and penetration testing](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
 - [Nice OSINT Collection](https://github.com/lucmski/OSINT-Collection)
 - [Awesome Brupsuit](https://github.com/alphaSeclab/awesome-burp-suite)
+- [A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
 
 🔰 USEFUL WEBSITES FOR PENTESTERS & HACKERS
 __________________________
