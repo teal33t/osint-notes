@@ -1,8 +1,4 @@
-# OSINT Tools Collection
-
-<div align="center">
-  <h2>A Comprehensive Collection of OSINT Tools</h2>
-</div>
+# A Comprehensive Collection of OSINT Tools
 
 ---
 
@@ -2581,35 +2577,8 @@ Zulu is a dynamic risk scoring engine for web based content.
 
 </details>
 
-## Statistics
-
-### Top Tags
-1. **Domain** - 87 tools
-2. **Host** - 74 tools
-3. **IP** - 62 tools
-4. **URL** - 42 tools
-5. **Website** - 41 tools
-6. **Search** - 41 tools
-7. **GitHub** - 38 tools
-8. **Email** - 29 tools
-9. **Images** - 27 tools
-10. **DNS** - 25 tools
-
-### Tools by Category
-- **Website Monitoring & Analysis**: 95 tools
-- **Username & Identity Research**: 51 tools
-- **Network & Infrastructure**: 31 tools
-- **Image & Media Analysis**: 26 tools
-- **Search & Discovery**: 13 tools
-- **Email Investigation**: 12 tools
-- **Social Media Intelligence**: 10 tools
-- **Data Extraction & Scraping**: 1 tools
-- **Geolocation & Mapping**: 1 tools
-- **Other Tools**: 1 tools
-
 ---
 
 <div align="center">
-  <p><em>Last updated: May 21, 2025</em></p>
   <p>This document is for informational purposes only. All tools should be used responsibly and ethically.</p>
 </div>
