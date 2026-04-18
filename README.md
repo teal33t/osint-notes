@@ -2485,6 +2485,16 @@ Monitor visual website changes and receive notifications.
 
 ---
 
+#### Snaplert
+
+Monitor any webpage for visual changes with pixel-level diffs, AI-powered summaries explaining what changed, and an element-level zone picker. Get email alerts with before/after screenshots. Free during open beta.
+
+**URL:** [https://snaplert.com](https://snaplert.com)
+
+**Tags:** Website, Monitoring, Changes, Visual, AI, Alerts
+
+---
+
 #### Wappalyzer
 
 Find out the technology stack of any website. Create lists of websites that use certain technologies, with company and contact details. Use our tools for lead generation, market analysis and competito[...]
