@@ -599,6 +599,7 @@ Investigation directory — tools, feeds, and sources.
 | [NASA Worldview](https://worldview.earthdata.nasa.gov/) | Daily global satellite data |
 | [NearToilets](https://neartoilets.com/map) | Find clean public toilets |
 | [NOAA Satellite Data](https://www.nesdis.noaa.gov/) | US environmental satellite imagery |
+| [Oceanir](https://oceanir.ai/) | Estimates photo locations from visual clues without GPS metadata. Freemium; verify estimates independently. |
 | [Open Infra Map](https://openinframap.org/) | View of the world's infrastructure mapped in OSM |
 | [OpenSeaMap](https://www.openseamap.org/) | The Open Sea Map |
 | [OpenStreetMap](https://www.openstreetmap.org/) | Community-driven world map |
