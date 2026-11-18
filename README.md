@@ -4,7 +4,7 @@
 
 Investigation directory — tools, feeds, and sources.
 
-`1137` clearnet &nbsp;·&nbsp; `183` onion &nbsp;·&nbsp; August 2026
+`1138` clearnet &nbsp;·&nbsp; `183` onion &nbsp;·&nbsp; August 2026
 
 </div>
 
@@ -20,7 +20,7 @@ Investigation directory — tools, feeds, and sources.
 | 📱 **Social & Messaging** (277) | [Social Media Tools](#social-media-tools) · [X (Twitter) Accounts](#x-twitter-accounts) · [Telegram](#telegram) · [Discord](#discord) |
 | 🌐 **Network & Web** (249) | [Search Engines](#search-engines) · [Domains, IPs & Infrastructure](#domains-ips-infrastructure) · [Website Monitoring & Archives](#website-monitoring-archives) |
 | 🗺️ **Geospatial & Movement** (124) | [Maps & Geolocation](#maps-geolocation) · [Aviation](#aviation) · [Maritime](#maritime) · [Railways](#railways) |
-| 🖼️ **Media** (64) | [Images, Video & Forensics](#images-video-forensics) · [News & Media](#news-media) |
+| 🖼️ **Media** (65) | [Images, Video & Forensics](#images-video-forensics) · [News & Media](#news-media) |
 | ⚖️ **Organizations & Records** (99) | [Business & Company Intelligence](#business-company-intelligence) · [Government & Legal](#government-legal) · [Academic & Research](#academic-research) |
 | 🛡️ **Threat Intelligence** (287) | [Malware, CTI & Feeds](#malware-cti-feeds) · [Forums](#forums) · [Tor & Hidden Services](#tor-hidden-services) |
 | 📚 **Reference** (156) | [Automation, Recon & AI](#automation-recon-ai) · [Communications & SIGINT](#communications-sigint) · [Reporting & Visualization](#reporting-visualization) · [Learning & Collections](#learning-collections) |
@@ -724,7 +724,7 @@ Investigation directory — tools, feeds, and sources.
 
 ### Images, Video & Forensics
 
-*48 entries* · [back to directory](#directory)
+*49 entries* · [back to directory](#directory)
 
 | Resource | About |
 |---|---|
@@ -767,6 +767,7 @@ Investigation directory — tools, feeds, and sources.
 | [Streamscharts](https://streamscharts.com/) | Track statistics of live streams |
 | [Stylesuxx — steganography](https://stylesuxx.github.io/steganography/) | — |
 | [TwitchTracker](https://twitchtracker.com/) | Analytics and tracking for Twitch channels |
+| [Video Reverse Search](https://videoreversesearch.com/) | Search selected video frames or a screenshot for matching web pages (freemium) |
 | [Vimeo Search](https://vimeo.com/search) | Search for videos on Vimeo. |
 | [Vincentqyw/image-matching-webui](https://github.com/Vincentqyw/image-matching-webui) | — |
 | [What Font Is](https://www.whatfontis.com/) | Find any font from any image. |
