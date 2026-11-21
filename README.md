@@ -41,6 +41,7 @@ Investigation directory — tools, feeds, and sources.
 | [Email Verifier Pro](https://e-mailvalidator.com/) | Mass email verification tool. |
 | [Emailable](https://emailable.com/) | Email verification and deliverability checker. |
 | [Have I Been Pwned](https://haveibeenpwned.com/) | Check if your email address is in a data breach. |
+| [Have I Been Ransomed?](https://haveibeenransom.com/) | Check if your email, phone or company has been leaked by ransomware gangs, stealers or traditional breaches. |
 | [Hunter](https://hunter.io/) | Find any decision maker’s contact details. |
 | [Mailtester](https://mailtester.com/en/) | Check if an email address is valid and deliverable |
 | [Maltiverse](https://maltiverse.com/search) | IOC enrichment and threat intelligence search |
@@ -942,6 +943,7 @@ Investigation directory — tools, feeds, and sources.
 | [ANY](https://any.run/) | Interactive sandbox for live malware execution and observation |
 | [ApateDNS](https://www.fireeye.com/services/freeware/apatedns.html) | DNS redirection tool for malware network simulation |
 | [Binary Ninja](https://binary.ninja/) | Modern and scriptable reverse engineering platform |
+| [Breach House](https://breach.house/) | Search ransomware and breach posts, with source and discovery date. |
 | [Censys Search and Data](https://censys.io/) | Enriched dataset of hosts and certificates |
 | [Censys Workshop](https://workshop.censys.io/) | Research environment showcasing Censys experimental tools |
 | [CriminalIP](https://www.criminalip.io/) | Attack surface and exposure analysis platform |
